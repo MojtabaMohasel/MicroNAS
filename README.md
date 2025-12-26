@@ -1,5 +1,6 @@
 # MicroNAS — Memory-Constrained Hyperparameter Optimization
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MojtabaMohasel/MicroNAS/blob/main/Examples/AReM.ipynb)
 
 This repository provides a customized version of **KerasTuner**, an easy-to-use and scalable hyperparameter optimization framework for Keras/TensorFlow models — extended with **memory-aware model search** for deployment-constrained platforms (e.g., microcontrollers and embedded devices).
 
